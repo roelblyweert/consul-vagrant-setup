@@ -1,2 +1,3 @@
 # Vagrant runtime files
+**/.vagrant/*
 .vagrant/*
